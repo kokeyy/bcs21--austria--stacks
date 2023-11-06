@@ -1,0 +1,9 @@
+Stacks
+    - a data structure that stores and retrieves items in a "last in first out" (LIFO)
+
+2 operations 
+pop && push
+push
+    - allows us to store a value on to the Stack
+pop
+    - it allows us to retrieve and removes a value from the stack
